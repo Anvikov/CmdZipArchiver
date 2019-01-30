@@ -20,7 +20,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>ru.dormammu.edu.cmdziparchiver.Archiver</mainClass>
+                            <mainClass>ru.anvikov.edu.cmdziparchiver.Archiver</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

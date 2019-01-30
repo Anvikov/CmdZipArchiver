@@ -1,4 +1,4 @@
-package ru.dormammu.edu.cmdziparchiver;
+package ru.anvikov.edu.cmdziparchiver;
 
 import java.io.BufferedReader;
 import java.io.IOException;

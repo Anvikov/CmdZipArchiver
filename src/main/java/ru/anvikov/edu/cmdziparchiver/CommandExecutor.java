@@ -1,7 +1,7 @@
-package ru.dormammu.edu.cmdziparchiver;
+package ru.anvikov.edu.cmdziparchiver;
 
 
-import ru.dormammu.edu.cmdziparchiver.command.*;
+import ru.anvikov.edu.cmdziparchiver.command.*;
 
 import java.util.HashMap;
 import java.util.Map;

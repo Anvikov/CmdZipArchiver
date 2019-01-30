@@ -1,9 +1,9 @@
-package ru.dormammu.edu.cmdziparchiver.command;
+package ru.anvikov.edu.cmdziparchiver.command;
 
 
-import ru.dormammu.edu.cmdziparchiver.ConsoleHelper;
-import ru.dormammu.edu.cmdziparchiver.FileProperties;
-import ru.dormammu.edu.cmdziparchiver.ZipFileManager;
+import ru.anvikov.edu.cmdziparchiver.ConsoleHelper;
+import ru.anvikov.edu.cmdziparchiver.FileProperties;
+import ru.anvikov.edu.cmdziparchiver.ZipFileManager;
 
 import java.util.List;
 

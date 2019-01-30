@@ -1,4 +1,4 @@
-package ru.dormammu.edu.cmdziparchiver;
+package ru.anvikov.edu.cmdziparchiver;
 
 public class FileProperties {
     private String name;

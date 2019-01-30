@@ -1,4 +1,4 @@
-package ru.dormammu.edu.cmdziparchiver;
+package ru.anvikov.edu.cmdziparchiver;
 
 public enum Operation {
     CREATE,

@@ -1,4 +1,4 @@
-package ru.dormammu.edu.cmdziparchiver.exception;
+package ru.anvikov.edu.cmdziparchiver.exception;
 
 public class PathIsNotFoundException extends Exception {
 }

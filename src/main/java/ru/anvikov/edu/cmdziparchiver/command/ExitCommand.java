@@ -1,7 +1,7 @@
-package ru.dormammu.edu.cmdziparchiver.command;
+package ru.anvikov.edu.cmdziparchiver.command;
 
 
-import ru.dormammu.edu.cmdziparchiver.ConsoleHelper;
+import ru.anvikov.edu.cmdziparchiver.ConsoleHelper;
 
 public class ExitCommand implements Command {
     @Override

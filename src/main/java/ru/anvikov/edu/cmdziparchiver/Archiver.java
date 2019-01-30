@@ -1,7 +1,7 @@
-package ru.dormammu.edu.cmdziparchiver;
+package ru.anvikov.edu.cmdziparchiver;
 
 
-import ru.dormammu.edu.cmdziparchiver.exception.WrongZipFileException;
+import ru.anvikov.edu.cmdziparchiver.exception.WrongZipFileException;
 
 import java.io.IOException;
 
